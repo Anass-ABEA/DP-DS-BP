@@ -1,0 +1,9 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆ­ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›š½Ìÿÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¨ÅÓ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›š½Ìÿÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ°„Žøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Êœ§Ú
+T
+java:S1155'">Use isEmpty() to check whether the collection is empty or not.(‚•Ø’
